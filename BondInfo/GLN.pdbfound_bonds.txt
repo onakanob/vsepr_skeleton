@@ -1,0 +1,7 @@
+C CA
+CB CG
+CA CB
+CD CG
+CA N
+CD NE2
+CD OE1

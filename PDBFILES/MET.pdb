@@ -1,0 +1,29 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     MET
+SEQRES   1 A    1  MET
+MODEL        1
+ATOM      1  N   MET A   2      -0.619  -1.948   1.094  1.00  0.00           N  
+ATOM      2  CA  MET A   2      -0.378  -0.925   0.083  1.00  0.00           C  
+ATOM      3  C   MET A   2       0.939  -1.230  -0.651  1.00  0.00           C  
+ATOM      4  O   MET A   2       1.620  -2.214  -0.361  1.00  0.00           O  
+ATOM      5  CB  MET A   2      -0.430   0.491   0.697  1.00  0.00           C  
+ATOM      6  CG  MET A   2      -0.196   1.693  -0.233  1.00  0.00           C  
+ATOM      7  SD  MET A   2      -0.255   3.359   0.474  1.00  0.00           S  
+ATOM      8  CE  MET A   2       0.077   4.317  -1.026  1.00  0.00           C  
+ATOM      9  H   MET A   2       0.064  -2.686   1.184  1.00  0.00           H  
+ATOM     10  HA  MET A   2      -1.250  -0.841  -0.565  1.00  0.00           H  
+ATOM     11  HB2 MET A   2      -1.414   0.661   1.136  1.00  0.00           H  
+ATOM     12  HB3 MET A   2       0.332   0.581   1.471  1.00  0.00           H  
+ATOM     13  HG2 MET A   2       0.794   1.617  -0.683  1.00  0.00           H  
+ATOM     14  HG3 MET A   2      -0.952   1.697  -1.019  1.00  0.00           H  
+ATOM     15  HE1 MET A   2       0.080   5.380  -0.785  1.00  0.00           H  
+ATOM     16  HE2 MET A   2       1.049   4.034  -1.430  1.00  0.00           H  
+ATOM     17  HE3 MET A   2      -0.697   4.115  -1.766  1.00  0.00           H  
+ATOM     18  H   MET A   2      -0.666  -1.516   2.006  1.00  0.00           H  
+ATOM     19  HXT MET A   2       1.262  -0.562  -1.436  1.00  0.00           H  
+CONECT    3   19
+CONECT   19    3
+ENDMDL
+END   

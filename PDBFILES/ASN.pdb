@@ -1,0 +1,29 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     ASN
+SEQRES   1 A    1  ASN
+MODEL        1
+ATOM      1  N   ASN A   2      -0.741  -1.334   0.930  1.00  0.00           N  
+ATOM      2  CA  ASN A   2      -0.495  -0.312  -0.084  1.00  0.00           C  
+ATOM      3  C   ASN A   2       0.820  -0.629  -0.808  1.00  0.00           C  
+ATOM      4  O   ASN A   2       1.492  -1.612  -0.511  1.00  0.00           O  
+ATOM      5  CB  ASN A   2      -0.541   1.098   0.538  1.00  0.00           C  
+ATOM      6  CG  ASN A   2      -0.300   2.272  -0.410  1.00  0.00           C  
+ATOM      7  OD1 ASN A   2      -1.220   2.821  -1.005  1.00  0.00           O  
+ATOM      8  ND2 ASN A   2       0.954   2.704  -0.527  1.00  0.00           N  
+ATOM      9  H 2 ASN A   2      -0.058  -2.072   1.020  1.00  0.00           H  
+ATOM     10  HA  ASN A   2      -1.364  -0.230  -0.736  1.00  0.00           H  
+ATOM     11  HB2 ASN A   2      -1.524   1.270   0.978  1.00  0.00           H  
+ATOM     12  HB3 ASN A   2       0.222   1.180   1.311  1.00  0.00           H  
+ATOM     13 HD22 ASN A   2       1.166   3.478  -1.141  1.00  0.00           H  
+ATOM     14 HD21 ASN A   2       1.692   2.259  -0.002  1.00  0.00           H  
+ATOM     15  H 1 ASN A   2      -0.788  -0.900   1.841  1.00  0.00           H  
+ATOM     16  HXT ASN A   2       1.150   0.035  -1.593  1.00  0.00           H  
+CONECT    1    9   15
+CONECT    3   16
+CONECT    9    1
+CONECT   15    1
+CONECT   16    3
+ENDMDL
+END   

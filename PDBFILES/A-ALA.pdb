@@ -1,0 +1,22 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     A-ALA
+SEQRES   1 A    1  ALA
+MODEL        1
+ATOM      1  N   ALA A   2      -0.631  -0.797   0.792  1.00  0.00           N  
+ATOM      2  CA  ALA A   2      -0.382   0.220  -0.219  1.00  0.00           C  
+ATOM      3  C   ALA A   2       0.933  -0.087  -0.952  1.00  0.00           C  
+ATOM      4  O   ALA A   2       1.612  -1.071  -0.660  1.00  0.00           O  
+ATOM      5  CB  ALA A   2      -0.383   1.594   0.455  1.00  0.00           C  
+ATOM      6  H   ALA A   2       0.053  -1.534   0.881  1.00  0.00           H  
+ATOM      7  HA  ALA A   2      -1.234   0.276  -0.897  1.00  0.00           H  
+ATOM      8  HB1 ALA A   2      -0.197   2.366  -0.292  1.00  0.00           H  
+ATOM      9  HB2 ALA A   2      -1.351   1.769   0.925  1.00  0.00           H  
+ATOM     10  HB3 ALA A   2       0.400   1.628   1.213  1.00  0.00           H  
+ATOM     11  H   ALA A   2      -0.679  -0.362   1.703  1.00  0.00           H  
+ATOM     12  HXT ALA A   2       1.259   0.580  -1.737  1.00  0.00           H  
+CONECT    3   12
+CONECT   12    3
+ENDMDL
+END   

@@ -1,0 +1,4 @@
+CB SG
+C CA
+CA CB
+CA N

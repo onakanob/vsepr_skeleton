@@ -1,0 +1,34 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     LYS
+SEQRES   1 A    1  LYS
+MODEL        1
+ATOM      1  N   LYS A   2      -0.560  -2.609   0.944  1.00  0.00           N  
+ATOM      2  CA  LYS A   2      -0.311  -1.593  -0.068  1.00  0.00           C  
+ATOM      3  C   LYS A   2       1.004  -1.907  -0.794  1.00  0.00           C  
+ATOM      4  O   LYS A   2       1.676  -2.894  -0.494  1.00  0.00           O  
+ATOM      5  CB  LYS A   2      -0.314  -0.217   0.606  1.00  0.00           C  
+ATOM      6  CG  LYS A   2      -0.241   0.945  -0.389  1.00  0.00           C  
+ATOM      7  CD  LYS A   2      -0.190   2.334   0.259  1.00  0.00           C  
+ATOM      8  CE  LYS A   2      -0.117   3.512  -0.722  1.00  0.00           C  
+ATOM      9  NZ  LYS A   2      -0.071   4.822  -0.048  1.00  0.00           N1+
+ATOM     10  H   LYS A   2       0.124  -3.347   1.033  1.00  0.00           H  
+ATOM     11  HA  LYS A   2      -1.164  -1.536  -0.744  1.00  0.00           H  
+ATOM     12  HB2 LYS A   2      -1.230  -0.097   1.184  1.00  0.00           H  
+ATOM     13  HB3 LYS A   2       0.547  -0.135   1.269  1.00  0.00           H  
+ATOM     14  HG2 LYS A   2       0.657   0.847  -0.999  1.00  0.00           H  
+ATOM     15  HG3 LYS A   2      -1.120   0.928  -1.034  1.00  0.00           H  
+ATOM     16  HD2 LYS A   2      -1.086   2.488   0.861  1.00  0.00           H  
+ATOM     17  HD3 LYS A   2       0.691   2.407   0.896  1.00  0.00           H  
+ATOM     18  HE2 LYS A   2       0.782   3.422  -1.332  1.00  0.00           H  
+ATOM     19  HE3 LYS A   2      -0.996   3.503  -1.367  1.00  0.00           H  
+ATOM     20  HZ1 LYS A   2      -0.024   5.556  -0.740  1.00  0.00           H  
+ATOM     21  HZ2 LYS A   2      -0.902   4.942   0.513  1.00  0.00           H  
+ATOM     22  HZ3 LYS A   2       0.745   4.866   0.546  1.00  0.00           H  
+ATOM     23  H   LYS A   2      -0.608  -2.174   1.854  1.00  0.00           H  
+ATOM     24  HXT LYS A   2       1.337  -1.246  -1.580  1.00  0.00           H  
+CONECT    3   24
+CONECT   24    3
+ENDMDL
+END   

@@ -1,0 +1,33 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     TYR
+SEQRES   1 A    1  TYR
+MODEL        1
+ATOM      1  N   TYR A   2      -0.655  -2.299   1.364  1.00  0.00           N  
+ATOM      2  CA  TYR A   2      -0.404  -1.281   0.350  1.00  0.00           C  
+ATOM      3  C   TYR A   2       0.913  -1.591  -0.381  1.00  0.00           C  
+ATOM      4  O   TYR A   2       1.591  -2.574  -0.088  1.00  0.00           O  
+ATOM      5  CB  TYR A   2      -0.439   0.111   1.007  1.00  0.00           C  
+ATOM      6  CG  TYR A   2      -0.199   1.309   0.109  1.00  0.00           C  
+ATOM      7  CD1 TYR A   2       1.106   1.803  -0.070  1.00  0.00           C  
+ATOM      8  CD2 TYR A   2      -1.278   1.943  -0.531  1.00  0.00           C  
+ATOM      9  CE1 TYR A   2       1.333   2.915  -0.899  1.00  0.00           C  
+ATOM     10  CE2 TYR A   2      -1.053   3.054  -1.362  1.00  0.00           C  
+ATOM     11  CZ  TYR A   2       0.254   3.540  -1.549  1.00  0.00           C  
+ATOM     12  OH  TYR A   2       0.477   4.617  -2.356  1.00  0.00           O  
+ATOM     13  H   TYR A   2       0.029  -3.037   1.453  1.00  0.00           H  
+ATOM     14  HA  TYR A   2      -1.267  -1.206  -0.312  1.00  0.00           H  
+ATOM     15  HB2 TYR A   2      -1.419   0.277   1.456  1.00  0.00           H  
+ATOM     16  HB3 TYR A   2       0.328   0.169   1.780  1.00  0.00           H  
+ATOM     17  HD1 TYR A   2       1.937   1.327   0.430  1.00  0.00           H  
+ATOM     18  HD2 TYR A   2      -2.284   1.576  -0.385  1.00  0.00           H  
+ATOM     19  HE1 TYR A   2       2.336   3.290  -1.038  1.00  0.00           H  
+ATOM     20  HE2 TYR A   2      -1.883   3.535  -1.857  1.00  0.00           H  
+ATOM     21  HH  TYR A   2      -0.357   4.923  -2.720  1.00  0.00           H  
+ATOM     22  H   TYR A   2      -0.703  -1.863   2.274  1.00  0.00           H  
+ATOM     23  HXT TYR A   2       1.238  -0.924  -1.165  1.00  0.00           H  
+CONECT    3   23
+CONECT   23    3
+ENDMDL
+END   

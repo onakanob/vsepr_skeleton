@@ -1,0 +1,6 @@
+C CA
+CB CG
+CA CB
+CA N
+CG OD1
+CG OD2

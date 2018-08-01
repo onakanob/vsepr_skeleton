@@ -1,0 +1,5 @@
+CB CG2
+CA CB
+C CA
+CA N
+CB OG1

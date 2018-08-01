@@ -1,0 +1,29 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     GLN
+SEQRES   1 A    1  GLN
+MODEL        1
+ATOM      1  N   GLN A   2      -0.458  -1.828   0.839  1.00  0.00           N  
+ATOM      2  CA  GLN A   2      -0.214  -0.808  -0.172  1.00  0.00           C  
+ATOM      3  C   GLN A   2       1.103  -1.125  -0.897  1.00  0.00           C  
+ATOM      4  O   GLN A   2       1.775  -2.112  -0.597  1.00  0.00           O  
+ATOM      5  CB  GLN A   2      -0.257   0.610   0.438  1.00  0.00           C  
+ATOM      6  CG  GLN A   2      -0.018   1.804  -0.501  1.00  0.00           C  
+ATOM      7  CD  GLN A   2      -0.076   3.168   0.173  1.00  0.00           C  
+ATOM      8  OE1 GLN A   2       0.929   3.684   0.649  1.00  0.00           O  
+ATOM      9  NE2 GLN A   2      -1.262   3.766   0.227  1.00  0.00           N  
+ATOM     10  H   GLN A   2       0.226  -2.566   0.928  1.00  0.00           H  
+ATOM     11  HA  GLN A   2      -1.083  -0.727  -0.824  1.00  0.00           H  
+ATOM     12  HB2 GLN A   2      -1.238   0.787   0.878  1.00  0.00           H  
+ATOM     13  HB3 GLN A   2       0.508   0.697   1.209  1.00  0.00           H  
+ATOM     14  HG2 GLN A   2       0.970   1.720  -0.953  1.00  0.00           H  
+ATOM     15  HG3 GLN A   2      -0.776   1.809  -1.284  1.00  0.00           H  
+ATOM     16 HE22 GLN A   2      -1.351   4.672   0.664  1.00  0.00           H  
+ATOM     17 HE21 GLN A   2      -2.074   3.315  -0.169  1.00  0.00           H  
+ATOM     18  H   GLN A   2      -0.505  -1.395   1.750  1.00  0.00           H  
+ATOM     19  HXT GLN A   2       1.436  -0.463  -1.683  1.00  0.00           H  
+CONECT    3   19
+CONECT   19    3
+ENDMDL
+END   

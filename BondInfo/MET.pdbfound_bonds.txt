@@ -1,0 +1,6 @@
+CG SD
+CB CG
+CE SD
+C CA
+CA CB
+CA N

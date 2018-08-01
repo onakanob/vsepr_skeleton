@@ -1,0 +1,7 @@
+CE NZ
+CD CE
+CD CG
+CB CG
+CA CB
+C CA
+CA N

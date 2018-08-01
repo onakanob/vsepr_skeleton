@@ -1,0 +1,3 @@
+C CA
+CA CB
+CA N

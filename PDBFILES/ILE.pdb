@@ -1,0 +1,31 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     ILE
+SEQRES   1 A    1  ILE
+MODEL        1
+ATOM      1  N   ILE A   2      -0.213  -1.664   0.611  1.00  0.00           N  
+ATOM      2  CA  ILE A   2       0.036  -0.642  -0.405  1.00  0.00           C  
+ATOM      3  C   ILE A   2       1.356  -0.974  -1.120  1.00  0.00           C  
+ATOM      4  O   ILE A   2       2.019  -1.964  -0.811  1.00  0.00           O  
+ATOM      5  CB  ILE A   2      -0.016   0.792   0.195  1.00  0.00           C  
+ATOM      6  CG1 ILE A   2      -1.412   1.106   0.772  1.00  0.00           C  
+ATOM      7  CG2 ILE A   2       0.411   1.843  -0.846  1.00  0.00           C  
+ATOM      8  CD1 ILE A   2      -1.640   2.486   1.409  1.00  0.00           C  
+ATOM      9  H   ILE A   2       0.470  -2.402   0.701  1.00  0.00           H  
+ATOM     10  HA  ILE A   2      -0.835  -0.554  -1.054  1.00  0.00           H  
+ATOM     11  HB  ILE A   2       0.773   0.904   0.938  1.00  0.00           H  
+ATOM     12 HG12 ILE A   2      -2.157   1.036  -0.021  1.00  0.00           H  
+ATOM     13 HG13 ILE A   2      -1.650   0.390   1.558  1.00  0.00           H  
+ATOM     14 HG21 ILE A   2       0.365   2.836  -0.400  1.00  0.00           H  
+ATOM     15 HG22 ILE A   2       1.430   1.638  -1.172  1.00  0.00           H  
+ATOM     16 HG23 ILE A   2      -0.260   1.799  -1.704  1.00  0.00           H  
+ATOM     17 HD11 ILE A   2      -2.667   2.556   1.768  1.00  0.00           H  
+ATOM     18 HD12 ILE A   2      -0.953   2.618   2.246  1.00  0.00           H  
+ATOM     19 HD13 ILE A   2      -1.461   3.264   0.667  1.00  0.00           H  
+ATOM     20  H   ILE A   2      -0.261  -1.229   1.521  1.00  0.00           H  
+ATOM     21  HXT ILE A   2       1.698  -0.319  -1.908  1.00  0.00           H  
+CONECT    3   21
+CONECT   21    3
+ENDMDL
+END   
